@@ -7,8 +7,7 @@
 
 # UI logo
 
-<img width="300" height="230" alt="image" src="https://github.com/user-attachments/assets/c24fba03-9479-4e2a-894d-11c4819c57a9" />
-
+<img width="1148" height="858" alt="image" src="https://github.com/user-attachments/assets/251f67c5-69b4-4f17-bf68-6d5579f9db47" />
 
 # 项目简介
 
