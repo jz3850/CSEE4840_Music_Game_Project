@@ -7,7 +7,7 @@
 
 # UI logo
 
-<img width="1148" height="858" alt="image" src="https://github.com/user-attachments/assets/251f67c5-69b4-4f17-bf68-6d5579f9db47" />
+<img width="570" height="430" alt="image" src="https://github.com/user-attachments/assets/251f67c5-69b4-4f17-bf68-6d5579f9db47" />
 
 # 项目简介
 
@@ -34,7 +34,8 @@ Rhythm Master 是一个运行在 Intel DE1-SoC FPGA 平台上的节奏音乐游�
 
 # 系统架构
 
-<img width="1200" height="410" alt="image" src="https://github.com/user-attachments/assets/a58bdca2-9708-42a2-ab27-1e5c28dd9d6b" />
+<img width="1200" height="410" alt="image" src="https://github.com/user-attachments/assets/2a59f040-c979-427d-98b4-2b643c701fd2" />
+
 
 系统由 FPGA 与 HPS 两部分组成：
 
@@ -89,11 +90,12 @@ Rhythm Master 是一个运行在 Intel DE1-SoC FPGA 平台上的节奏音乐游�
 
 ### 音频硬件结构图
 
-<img width="550" height="330" alt="image" src="https://github.com/user-attachments/assets/07e0c065-8c30-452c-bc26-0d1a2643250b" />
+<img width="550" height="330" alt="image" src="https://github.com/user-attachments/assets/fc1870e3-5f40-4dc7-93ce-074a9b50ab8b" />
+
 
 ### Audio Platform Designer 配置
 
-<img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/6ccf97d6-e053-4c45-8129-1c969fe4daf7" />
+<img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/686019b8-3923-4b21-9600-309a2256d5e1" />
 
 ---
 
@@ -116,11 +118,11 @@ VGA 显示模块由自定义 SystemVerilog 模块实现：
 
 ### VGA Framebuffer 结构图
 
-<img width="700" height="330" alt="image" src="https://github.com/user-attachments/assets/9b7c2fab-a71c-4a3d-8291-fcaa49d9969f" />
+<img width="700" height="330" alt="image" src="https://github.com/user-attachments/assets/02c4c004-f343-49ec-99c8-f11f3676e4cb" />
 
 ### VGA Platform Designer 配置
 
-<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/eabd986c-c759-4c14-950d-aa2fa53ffca3" />
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/9ec39a3b-bea8-4ac9-870e-6e0c6d829ee7" />
 
 ---
 
@@ -153,7 +155,7 @@ VGA 显示模块由自定义 SystemVerilog 模块实现：
 
 ### Audio Thread Flowchart
 
-<img width="400" height="456" alt="image" src="https://github.com/user-attachments/assets/ccd03f70-e32c-42f6-be4e-f410e57a7f6b" />
+<img width="400" height="456" alt="image" src="https://github.com/user-attachments/assets/55d48b51-7bfe-472d-b5d8-be3ad6897bb4" />
 
 ---
 
@@ -227,13 +229,13 @@ S / A / B / C / D
 
 ### Game Logic Flowchart
 
-<img width="800" height="730" alt="image" src="https://github.com/user-attachments/assets/50661309-435b-4fdb-a0d3-9ae9f0da9f03" />
+<img width="800" height="730" alt="image" src="https://github.com/user-attachments/assets/e7af92fa-2c61-41a5-9824-5af46b4906eb" />
 
 ---
 
 # Sprite Resources
 
-<img width="600" height="770" alt="image" src="https://github.com/user-attachments/assets/34b3abec-d136-4299-a14e-8e95e1deee0d" />
+<img width="600" height="770" alt="image" src="https://github.com/user-attachments/assets/fd2d0aac-0cb1-4ee4-a093-770ea5db4e47" />
 
 项目包含：
 
